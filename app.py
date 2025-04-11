@@ -4,7 +4,7 @@ import requests
 
 def acessar():
     print("Acessando site...")
-    requests.get("https://google.com")
+    requests.get("https://abaixo-assinado-1.onrender.com/")
 
 schedule.every(1).minutes.do(acessar)
 
