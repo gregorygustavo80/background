@@ -1,0 +1,23 @@
+# Ignorar o ambiente virtual
+venv/
+
+# Caches do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de log
+*.log
+
+# Configs do editor
+.vscode/
+.idea/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos ocultos ou temporários
+.env
+*.swp
