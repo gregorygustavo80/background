@@ -5,7 +5,6 @@ import requests
 sites = [
     "https://abaixo-assinado-1.onrender.com/",
     "https://bioinsightstools.streamlit.app/",
-
 ]
 
 def acessar():
