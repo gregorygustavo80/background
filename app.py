@@ -17,7 +17,7 @@ def acessar():
         except Exception as e:
             print(f"Erro ao acessar {site}: {e}")
 
-schedule.every(10).minutes.do(acessar)
+schedule.every(1).minutes.do(acessar)
 
 while True:
     schedule.run_pending()
