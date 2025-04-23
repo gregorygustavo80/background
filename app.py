@@ -4,7 +4,6 @@ import requests
 
 sites = [
     "https://abaixo-assinado-1.onrender.com/",
-    "https://bioinsightstools.streamlit.app/",
     "https://groggy.onrender.com",
 ]
 
