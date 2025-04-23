@@ -3,7 +3,6 @@ import time
 import requests
 
 sites = [
-    "https://abaixo-assinado-1.onrender.com/",
     "https://groggy.onrender.com",
 ]
 
